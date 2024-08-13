@@ -9,11 +9,11 @@ I am an Frontend Developer based in Delhi, India. My passion lies in using desig
 - 😄 Pronouns: He/Him
 
 ### 📊 GitHub Stats
-![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakhar20394&theme=tokyonight&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prakhar20394&theme=dark&date_format=j%20M%5B%20Y%5D)
+![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrakharRipikAI&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrakharRipikAI&date_format=j%20M%5B%20Y%5D)
 
 ### 🌐 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar20394)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharRipikAI)
 
 ### :writing_hand: Blog Posts
 - [Medium](https://medium.com/@prakharbhargava35)
